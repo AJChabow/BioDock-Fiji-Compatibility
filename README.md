@@ -8,4 +8,4 @@ From there, you should take the JAR file linked here (https://drive.google.com/f
 
 To use the plugin in FIJI go Under **Plugins > ROI Tools > Batch ROI Importer** and select the file you have just received from the colab notebook. The importer will import the polygons into your ROI manager in FIJI. You can then load the original image you used for segmenting in Biodock and see your polygons laid over it.
 
-Note: I am not associated with Biodock in any way, and frankly you shouldn't just run JAR files you find on the internet. You can use maven to produce the JAR file yourself using what is in the repository. If you're having trouble you can email me a dot j dot chabowski at gmail d o t  com   (written this way because of robots)
+Note: I am not associated with Biodock in any way, and frankly you shouldn't just run JAR files you find on the internet. You can use maven to produce the JAR file yourself using what is in the repository. If you're having trouble you can email me AT    a dot j dot chabowski at gmail d o t  com   (written this way because of robots)
