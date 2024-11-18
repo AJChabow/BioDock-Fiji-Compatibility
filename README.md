@@ -8,4 +8,4 @@ From there, you should take the JAR file linked here (https://drive.google.com/f
 
 To use the plugin in FIJI go Under **Plugins > ROI Tools > Batch ROI Importer** and select the file you have just received from the colab notebook. The importer should result in many ROI's now in your FIJI. It is up to you to manage the association between these ROI and the images they correspond to (the images you've given to Biodock to segment). 
 
-Note: I am not associated with Biodock in any way, and frankly you shouldn't just run JAR files you find on the internet. You can mvn to produce the JAR file yourself using what is in the repository.
+Note: I am not associated with Biodock in any way, and frankly you shouldn't just run JAR files you find on the internet. You can mvn to produce the JAR file yourself using what is in the repository. If you're having trouble you can email me a dot j dot chabowski at gmail d o t  com
